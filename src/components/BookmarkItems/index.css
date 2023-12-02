@@ -1,0 +1,78 @@
+.bookmark-items-container {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #f8fafc;
+  padding: 20px 10px 20px 10px;
+  border-radius: 5px;
+}
+
+.bookmark-items-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-weight: 500;
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+
+  border-radius: 25px;
+  margin-right: 5px;
+}
+
+.bookmark-items-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bookmark-items-details {
+  color: #f8fafc;
+  font-size: 15px;
+  padding: 0px 0px 0px 0px;
+  margin: 1px 1px 1px 1px;
+}
+
+.delete-icon {
+  height: 25px;
+}
+
+.stars-logo {
+  height: 15px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+
+.yellow {
+  background-color: #f59e0b;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.dark-green {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.blue {
+  background-color: #0ea5e9;
+}
+
+.grey {
+  background-color: #64748b;
+}

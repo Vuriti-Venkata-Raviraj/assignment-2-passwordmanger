@@ -1,0 +1,9 @@
+.main-container {
+  background-color: #c3caea;
+  min-height: 100vh;
+  padding: 20px 70px 30px 70px;
+}
+
+.app-logo {
+  height: 60px;
+}
